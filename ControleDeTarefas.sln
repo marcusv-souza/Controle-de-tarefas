@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleDeTarefas", "ControleDeTarefas\ControleDeTarefas.csproj", "{E1BCDA5E-5A88-460D-8F9A-37A25F94250E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Instalador do Controle de tarefas", "ControleDeTarefas\Instalador\Instalador do Controle de tarefas\Instalador do Controle de tarefas.vdproj", "{314EA692-876C-4AFF-AE5C-C4380D80A9D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1BCDA5E-5A88-460D-8F9A-37A25F94250E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1BCDA5E-5A88-460D-8F9A-37A25F94250E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1BCDA5E-5A88-460D-8F9A-37A25F94250E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1BCDA5E-5A88-460D-8F9A-37A25F94250E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{314EA692-876C-4AFF-AE5C-C4380D80A9D5}.Debug|Any CPU.ActiveCfg = Debug
+		{314EA692-876C-4AFF-AE5C-C4380D80A9D5}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6E0885F-6273-40C4-8DCC-D28FBA2A02B8}
+	EndGlobalSection
+EndGlobal
